@@ -1,0 +1,31 @@
+body{
+    background:url(https://th.bing.com/th/id/R.64028759666710f804b55e2ec361f9b2?rik=ZCsVDqe7OGyt%2fw&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f2%2f9%2fc%2f539834.jpg&ehk=bkBhwncaG6GfGreBwyjST9dTHX8QApN0GLF5eeG7wLo%3d&risl=&pid=ImgRaw&r=0);
+    background-size:cover;
+}
+img{
+    height:150px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    width:225px;
+
+   
+}
+#card{
+    border:5px  solid grey;
+    width: 250px;
+    padding:10px;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:aqua;
+    margin-top:100px;
+}
+h2{
+    text-align:center;
+    font-size:small;
+    color:green;
+}
+p{
+    text-align:justify;
+    color:blue;
+}
